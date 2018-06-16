@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "truffle": "4.1.11",
+        "zeppelin-solidity": "1.10.0"
+    }
+}
